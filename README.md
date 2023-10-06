@@ -53,5 +53,7 @@ plataformas, exemplos Windows, Linux e Mac OS.
 ## Meta
 
 Seu nome - [@gustcaldas](https://twitter.com/gustcaldas) - gustcaldas@gmail.com
+
 Distribuido sobre a licença. Veja `LICENÇA` para mais informações.
+
 [https://caldasgust.github.io/](https://caldasgust.github.io/)
